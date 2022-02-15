@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 836e4168-284e-954b-99e5-0fa52e2747a5
 title: Module 3 (Sessions 17-23)
 uid: 3cbace53-3491-da32-a947-1f328ba9d61f

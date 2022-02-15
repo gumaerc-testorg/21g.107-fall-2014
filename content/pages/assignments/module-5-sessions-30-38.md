@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 836e4168-284e-954b-99e5-0fa52e2747a5
 title: Module 5 (Sessions 30-38)
 uid: 0acd6911-fc4d-3177-f298-ab41e95b46e0

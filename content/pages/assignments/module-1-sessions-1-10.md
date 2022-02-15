@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 836e4168-284e-954b-99e5-0fa52e2747a5
 title: Module 1 (Sessions 1-10)
 uid: 393fc724-4459-8a32-3299-3812bc53d338

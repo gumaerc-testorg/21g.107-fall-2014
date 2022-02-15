@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4ae1516c-2206-7914-2383-e2f4136cf2f6
 ---
@@ -113,20 +115,6 @@ GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Twenty-nine light blue tablet chairs arranged in 6 rows. They are facing blackboards not visible in the picture. A large window is to the left of the chairs. A clock is on the back wall of the classroom. A projector is mounted to the ceiling.]({{< resource_file ba4d9512-c35d-d20a-7968-02111f5f76e8 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Class sessions were held in a typical classroom with tablet chairs, blackboards, and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

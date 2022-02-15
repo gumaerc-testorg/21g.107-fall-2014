@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "\u672A\u4F86\u6559\u6750\u7684\u66F4\u65B0\u8207\u5C55\u671B / \u672A\u6765\
   \u6559\u6750\u7684\u66F4\u65B0\u4E0E\u5C55\u671B"

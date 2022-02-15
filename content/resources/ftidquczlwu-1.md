@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-107-chinese-i-streamlined-fall-2014/d4743335067252f4fd06ccdd23c3ad01_FtIdQUcZlWU.pdf
+file: /media/courses/21g-107-chinese-i-streamlined-fall-2014/d4743335067252f4fd06ccdd23c3ad01_FtIdQUcZlWU.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: d4743335-0672-52f4-fd06-ccdd23c3ad01

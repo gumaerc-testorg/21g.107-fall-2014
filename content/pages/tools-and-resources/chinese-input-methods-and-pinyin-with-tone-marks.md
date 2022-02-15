@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Tools and Resources
+parent_type: CourseSection
 parent_uid: 1541613f-8e57-643a-07a2-8d4eaf450cab
 title: Chinese Input Methods and Pinyin with Tone Marks
 uid: c8e7d963-cbc3-9efe-e4f3-9c60e8916418
