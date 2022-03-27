@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 resourcetype: Document
 title: Course Notes on Chinese Characters_2
 uid: 4ddcc2de-7159-b14c-4a95-863885148ec5

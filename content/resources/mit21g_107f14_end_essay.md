@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Module 5 (Sessions 30-38)
 parent_type: CourseSection
+parent_uid: 0acd6911-fc4d-3177-f298-ab41e95b46e0
 resourcetype: Document
 title: End of Term Essay
 uid: 66eeb5d1-dbcc-abf6-ce2c-f6df65075dc0

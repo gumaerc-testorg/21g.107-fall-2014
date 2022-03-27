@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 resourcetype: Document
 title: Converting between Full-form and Simplified Characters
 uid: efb17765-9a00-85ec-29a8-ab0af2023da6

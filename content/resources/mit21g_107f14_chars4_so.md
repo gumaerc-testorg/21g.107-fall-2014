@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 resourcetype: Document
 title: Stroke Order of Characters in [LC] Lesson 4
 uid: ef27219a-7bc2-9164-11c2-2b6e7cacdcbc

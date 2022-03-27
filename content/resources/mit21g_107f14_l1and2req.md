@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 resourcetype: Document
 title: Daxue Yuwen Lessons 1-2 Required Characters
 uid: 2c425dcd-1981-ae03-0e82-07dbc0ca05cd

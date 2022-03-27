@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 resourcetype: Document
 title: Daxue Yuwen Lessons 7-8 Required Characters
 uid: 5a8a6eaa-2b02-aefd-13c5-a9d3d67e2ad4

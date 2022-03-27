@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\u8A55\u91CF\u5B78\u751F\u7684\u8A9E\u8A00\u5B78\u7FD2 / \u8BC4\u91CF\u5B66\
   \u751F\u7684\u8BED\u8A00\u5B66\u4E60"
 uid: a8e8e026-bdb4-98b0-5062-ad2b5f671106

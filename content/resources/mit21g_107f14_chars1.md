@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 resourcetype: Document
 title: Lecture Notes for [LC] Lesson 1
 uid: 64ac9325-e0dc-ab6e-5b7c-490975f43f6b
