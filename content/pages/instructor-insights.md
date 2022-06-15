@@ -1,108 +1,68 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4ae1516c-2206-7914-2383-e2f4136cf2f6
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21G.107 Chinese I (Streamlined)_ as it was taught by Min-Min Liang in Fall 2014.
 
-This course, in combination with [_21G.108 Chinese II (Streamlined)_](/courses/21g-108-chinese-ii-streamlined-spring-2015/), constitutes the elementary level of the streamlined Chinese sequence. Taught entirely in Chinese, the course is designed for students who have basic Chinese conversational skills, but who lack a corresponding level of literacy. The focus of the course is on learning standard language usage, reading in both full and simplified characters, and writing. 
+This course, in combination with [_21G.108 Chinese II (Streamlined)_](/courses/21g-108-chinese-ii-streamlined-spring-2015), constitutes the elementary level of the streamlined Chinese sequence. Taught entirely in Chinese, the course is designed for students who have basic Chinese conversational skills, but who lack a corresponding level of literacy. The focus of the course is on learning standard language usage, reading in both full and simplified characters, and writing. 
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Develop Chinese literacy skills
-*   Increase Chinese speaking proficiency
+- Develop Chinese literacy skills
+- Increase Chinese speaking proficiency
 
-Meet the Instructor
--------------------
-
-[![An image of instructor Min-Min Liang taken from an interview in which she is seated in her office.]({{< resource_file 0937e252-3ce7-8fb4-62ed-90708e6f1d25 >}})]({{< baseurl >}}/resources/instructor-interview-meet-the-educator)
+## Meet the Instructor
 
 _In the following video, Min-Min Liang shares her academic background and teaching experience._
 
-[Meet the Instructor: Min-Min Liang]({{< baseurl >}}/resources/instructor-interview-meet-the-educator)
+{{% resource_link 58a6c062-c380-1594-c101-0c9bacadde98 "Meet the Instructor: Min-Min Liang" %}}
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-{{< quote "When I first started, I knew one [teaching] method. I thought it was best to drill the students… to make them repeat. But throughout the years I realized they could say certain things, but they could not have a conversation... so I think I’ve evolved. Right now, the main [focus] for me is to have a welcoming environment to help students speak the language, not to talk about the language." "—Min-Min Liang" >}}
+{{< quote "When I first started, I knew one [teaching] method. I thought it was best to drill the students… to make them repeat. But throughout the years I realized they could say certain things, but they could not have a conversation… so I think I’ve evolved. Right now, the main [focus] for me is to have a welcoming environment to help students speak the language, not to talk about the language." "—Min-Min Liang" >}}
 
-_In the following videos, Min-Min Liang describes various aspects of how she teaches _21G.107 Chinese I (Streamlined).__
+_In the following videos, Min-Min Liang describes various aspects of how she teaches 21G.107 Chinese I (Streamlined)._
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 English-language Videos
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Chinese-language Videos
-{{< thclose >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link 961ffe2b-5120-58c2-85c6-aac54adf9d3d "Instructor Interview: Philosophical Approach to Language Teaching" %}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 5fdcb67f-1a8e-e3b6-0fe3-006920955657 "中文快班的教學哲學 / 中文快班的教学哲学" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link c2e1f1ad-4267-9457-198c-71336e249851 "Instructor Interview: Teaching Heritage Learners in a Streamlined Language Course" %}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link b3692a76-1d8d-1c88-0cb2-771fc8b3b043 "教導具華語基礎的學生 / 教导具华语基础的学生" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link 76957cb5-8095-a893-3b39-fcdf5d2ff487 "Instructor Interview: Teaching with Lingt Technology" %}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link a172f60e-d9a6-8d33-fe21-6f52b84a4295 "使用Lingt於課堂教學 / 使用Lingt于课堂教学" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link 9ffc1d74-fd0d-4584-5204-fe769679b268 "Instructor Interview: Assessing Students’ Language Learning" %}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link a8e8e026-bdb4-98b0-5062-ad2b5f671106 "評量學生的語言學習 / 评量学生的语言学习" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link 4e2635ab-3164-4e71-cf79-1b420ea638da "Instructor Interview: Incorporating Authentic Text Going Forward" %}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 751a9da0-667e-e223-25e3-dde67e65e4ce "未來教材的更新與展望 / 未来教材的更新与展望" %}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Instructor Interview: Philosophical Approach to Language Teaching]({{< baseurl >}}/resources/instructor-interview-philosophical)
-{{< tdclose >}}
-{{< tdopen >}}
-[中文快班的教學哲學 / 中文快班的教学哲学]({{< baseurl >}}/resources/instructor-interview-philosophical-chinese)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Instructor Interview: Teaching Heritage Learners in a Streamlined Language Course]({{< baseurl >}}/resources/instructor-interview-streamlined)
-{{< tdclose >}}
-{{< tdopen >}}
-[教導具華語基礎的學生 / 教导具华语基础的学生]({{< baseurl >}}/resources/instructor-interview-streamlined-chinese)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Instructor Interview: Teaching with Lingt Technology]({{< baseurl >}}/resources/instructor-interview-lingt)
-{{< tdclose >}}
-{{< tdopen >}}
-[使用Lingt於課堂教學 / 使用Lingt于课堂教学]({{< baseurl >}}/resources/instructor-interview-lingt-chinese)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Instructor Interview: Assessing Students’ Language Learning]({{< baseurl >}}/resources/instructor-interview-assessing)
-{{< tdclose >}}
-{{< tdopen >}}
-[評量學生的語言學習 / 评量学生的语言学习]({{< baseurl >}}/resources/instructor-interview-assessing-chinese)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Instructor Interview: Incorporating Authentic Text Going Forward]({{< baseurl >}}/resources/instructor-interview-course-iteration)
-{{< tdclose >}}
-{{< tdopen >}}
-[未來教材的更新與展望 / 未来教材的更新与展望]({{< baseurl >}}/resources/instructor-interview-course-iteration-chinese)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -118,26 +78,26 @@ Every fall semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
-- 30% Class performance (attendance [5%], promptness [3%], preparedness [5%], class report [7%] , and participation [10%])
-- 25% Writing (Written assignments [20%] and end-of-term essay [5%])
+- 30% Class performance (attendance \[5%\], promptness \[3%\], preparedness \[5%\], class report \[7%\] , and participation \[10%\])
+- 25% Writing (Written assignments \[20%\] and end-of-term essay \[5%\])
 - 5% Lingt assignments
 - 30% Bi-weekly tests
 - 10% Vocabulary quizzes and dictations
 
-
 ### Instructor Insights on Assessment
-*   [Instructor Interview: Assessing Students' Language Learning]({{< baseurl >}}/resources/instructor-interview-assessing)
-*   [评估学生的语言学习]({{< baseurl >}}/pages/this-course-at-mit)
 
-Student Information
--------------------
+- {{% resource_link 9ffc1d74-fd0d-4584-5204-fe769679b268 "Instructor Interview: Assessing Students' Language Learning" %}}
+- {{% resource_link a8e8e026-bdb4-98b0-5062-ad2b5f671106 "評量學生的語言學習 / 评量学生的语言学习" %}}
 
-![18 students took this course when it was offered in Fall 2014.]({{< resource_file f80f0b0c-c817-6905-3249-5796be611444 >}})
+## Student Information
+
+### Enrollment
+
+18 students
 
 ### Breakdown by Year
 
@@ -157,23 +117,20 @@ Having fewer than 20 students in the class allows students to have more speaking
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 3 times per week for 50 minutes per session; 39 sessions total; mandatory attendance.
-*   Several class sessions were devoted to learning about the sounds of the language and the ways in which these sounds are represented in the pinyin system of transcription. Character writing was also introduced.
-*   Textbook lessons began during the fifth week of the course.
-*   Classroom activities included discussing the content of the texts, short reports and performances based on the texts, practicing relevant grammatical patterns, sight reading of supplementary materials, and daily quizzes.
+- Met 3 times per week for 50 minutes per session; 39 sessions total; mandatory attendance.
+- Several class sessions were devoted to learning about the sounds of the language and the ways in which these sounds are represented in the pinyin system of transcription. Character writing was also introduced.
+- Textbook lessons began during the fifth week of the course.
+- Classroom activities included discussing the content of the texts, short reports and performances based on the texts, practicing relevant grammatical patterns, sight reading of supplementary materials, and daily quizzes.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Written assignments]({{< baseurl >}}/pages/assignments)
-*   [Lingt assignments]({{< baseurl >}}/pages/assignments/instructions-on-lingt-speaking-assignments)
-*   [Preparation for quizzes and tests]({{< baseurl >}}/pages/study-materials)
-*   End-of-term essay
+- {{% resource_link 836e4168-284e-954b-99e5-0fa52e2747a5 "Written assignments" %}}
+- {{% resource_link c5ab2893-05bb-e61f-fc95-193b2b1864c8 "Lingt assignments" %}}
+- {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Preparation for quizzes and tests" %}}
+- End-of-term essay
