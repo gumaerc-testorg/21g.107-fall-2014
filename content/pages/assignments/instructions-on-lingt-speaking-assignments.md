@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides instructions on how to complete speaking assignments
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,7 +30,7 @@ Using Lingt
 2.  Click bubble to do the recording. When you are done with recording, click the bubble again. To listen, just click the bubble again. If you are unsatisfied with what you have recorded, click the cross to the right of the bubble to start over again.
 3.  When you are done recording, click on the button "Submit." You will be prompted to **enter your name** **(Please Enter Your Chinese Name in _Pinyin_ and Your Section)** **and e-mail address** when you submit your recording. They are collected so that the instructor may e-mail you the URL to your recording.
 
-Submit your assignments on time (see [Calendar]({{< baseurl >}}/pages/calendar) for each assignment's due date.) Late submissions submitted within 2 days of the due date receive half credit. Submissions after 2 days of the due date receive no credit.
+Submit your assignments on time (see {{% resource_link f01284da-3813-25b0-8e1a-cd2e4444641a "Calendar" %}} for each assignment's due date.) Late submissions submitted within 2 days of the due date receive half credit. Submissions after 2 days of the due date receive no credit.
 
 Lingt Assignment One: Read the text of Lesson 1 in \[PC\].
 

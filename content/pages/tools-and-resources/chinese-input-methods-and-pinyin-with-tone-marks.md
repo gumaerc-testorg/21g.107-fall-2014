@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page includes information about how to browse webpages with Chinese
+  characters, how to input Chinese characters with Pinyin, and how to input Pinyin
+  tone marks in Microsoft Word.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Tools and Resources

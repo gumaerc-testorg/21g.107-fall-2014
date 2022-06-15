@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: This section provides links to tools and resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Tools and Resources
 uid: 1541613f-8e57-643a-07a2-8d4eaf450cab
 ---
 
-*   [Chinese Input Methods and Pinyin with Tone Marks]({{< baseurl >}}/pages/tools-and-resources/chinese-input-methods-and-pinyin-with-tone-marks)
+*   {{% resource_link c8e7d963-cbc3-9efe-e4f3-9c60e8916418 "Chinese Input Methods and Pinyin with Tone Marks" %}}
 *   {{< anchor "Hanyu_Pinyin" "http://web.mit.edu/jinzhang/www/pinyin/" >}}Hanyu Pinyin for Mandanrin Speakers{{< /anchor >}}
 *   [Learn Chinese Characters 中文字譜](http://www.zhongwen.com/)
 *   [Online Chinese Dictionary / 在线词典](http://dict.cn/)

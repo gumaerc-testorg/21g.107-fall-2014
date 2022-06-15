@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-107-chinese-i-streamlined-fall-2014/14ab524f934a0a733ae92ca084e362da_MIT21G_107F14_Streamlined_zh-hans-cmn.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/14ab524f934a0a733ae92ca084e362da_MIT21G_107F14_Streamlined_zh-hans-cmn.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

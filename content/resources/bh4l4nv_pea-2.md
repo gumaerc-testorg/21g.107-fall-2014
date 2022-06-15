@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-107-chinese-i-streamlined-fall-2014/3e30ded691f7541194659bd675561edd_bH4L4Nv_PeA.vtt
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/3e30ded691f7541194659bd675561edd_bH4L4Nv_PeA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

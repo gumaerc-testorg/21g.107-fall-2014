@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21g-107-chinese-i-streamlined-fall-2014/2095733efedf570762b18d167399e80b_MIT21G_107F14_Philosophy_zh-hans-cmn.srt
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/2095733efedf570762b18d167399e80b_MIT21G_107F14_Philosophy_zh-hans-cmn.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

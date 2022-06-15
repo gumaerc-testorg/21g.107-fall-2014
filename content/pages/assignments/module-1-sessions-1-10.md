@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on assignments and in-class activities
+  for the first module of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,11 +15,11 @@ uid: 393fc724-4459-8a32-3299-3812bc53d338
 Required Textbooks
 ------------------
 
-\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
+\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
 
 \[PC\] = The simiplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese - Simplified Character Version Vol. 1. (__Daxue Yuwen)._ Columbia University Press, 2004. ISBN: 9780231135672; or the traditional character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese Vol. 1._ (_Daxue Yuwen)_. Columbia University Press, 2002. ISBN: 9780231125550.
 
-Each assignment referenced in the table, if available, is provided in the [Study Materials]({{< baseurl >}}/pages/study-materials) section, except the audio files. Some files are not be provided here due to copyright restrictions.
+Each assignment referenced in the table, if available, is provided in the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Study Materials" %}} section, except the audio files. Some files are not be provided here due to copyright restrictions.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -62,7 +64,7 @@ Welcome Aboard
 
 1.  Read pp. 1–18 of the 'Hanyu Pinyin: Transcribing Chinese Sounds' handout (This handout is distributed to class and not available on OCW site due to copyright restrictions.) Read the sentences in Pinyin on pp. 19–20 on your own.
 2.  Learn the Pronounceable Initials Chart by heart.
-3.  If Hanyu Pinyin is new for you, familiarize yourself with the initials and finals and corresponding sounds by listening to the audio files at [_Hanyu Pinyin for Mandarin Speakers_]({{< baseurl >}}/pages/tools-and-resources#Hanyu_Pinyin).
+3.  If Hanyu Pinyin is new for you, familiarize yourself with the initials and finals and corresponding sounds by listening to the audio files at {{% resource_link 1541613f-8e57-643a-07a2-8d4eaf450cab "_Hanyu Pinyin for Mandarin Speakers_" "#Hanyu_Pinyin" %}}.
 
 
 {{< tdclose >}}
@@ -87,7 +89,7 @@ Welcome Aboard
 1.  Review 'Hanyu Pinyin: Transcribing Chinese Sounds' handout and learn the Finals and Spelling Rules in it by heart.
 2.  Writing Assignment: Using Pinyin, with tone marks, handwrite a composition of no less than 80 syllables about yourself. Please write on every other line and leave 1.25-inch margins for each piece of paper you use.
 3.  Read \[LC\] Lesson 1.
-4.  Optional Assignment: Write the [character _yong_]({{< baseurl >}}/pages/study-materials#Character_Yong) and perfect your strokes. Write the [big characters in Lesson 1]({{< baseurl >}}/pages/study-materials#Lesson_1), following the correct stroke orders.
+4.  Optional Assignment: Write the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "character _yong_" "#Character_Yong" %}} and perfect your strokes. Write the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "big characters in Lesson 1" "#Lesson_1" %}}, following the correct stroke orders.
 
 
 {{< tdclose >}}
@@ -111,7 +113,7 @@ Welcome Aboard
 
 
 1.  Read \[LC\] Lesson 2.
-2.  Optional Assignment: Write the [big characters in Lesson 2]({{< baseurl >}}/pages/study-materials#Lesson_2), following the correct stroke orders.
+2.  Optional Assignment: Write the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "big characters in Lesson 2" "#Lesson_2" %}}, following the correct stroke orders.
 
 
 {{< tdclose >}}
@@ -133,7 +135,7 @@ Welcome Aboard
 
 
 1.  Read \[LC\] Lesson 3.
-2.  Optional Assignment: Write the [big characters in Lesson 3]({{< baseurl >}}/pages/study-materials#Lesson_3), following the correct stroke orders.
+2.  Optional Assignment: Write the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "big characters in Lesson 3" "#Lesson_3" %}}, following the correct stroke orders.
 3.  Review the 'Hanyu Pinyin' handouts and Lessons 1-2.
 4.  To prepare for the test, you need to know the Pinyin system and recognize and reproduce the big characters in Lesson 1 and Lesson 2 from memory.
 
@@ -162,9 +164,9 @@ In the test, there will be the following types of questions:
 {{< tdopen >}}
 
 
-1.  Read \[LC\] Lesson 4 with the writing assignment of practicing writing the [big characters in Lesson 4]({{< baseurl >}}/pages/study-materials#Lesson_4) on your own, following the correct stroke orders.
+1.  Read \[LC\] Lesson 4 with the writing assignment of practicing writing the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "big characters in Lesson 4" "#Lesson_4" %}} on your own, following the correct stroke orders.
 2.  Learn the big characters in Lesson 3 by heart.
-3.  Using the characters in Lessons 1–4, handwrite 3 sentences of no less than 20 characters each. Then transcribe your sentences into _Pinyin_ with tone marks. Write about different things for the 3 sentences. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the [calligraphy sheet]({{< baseurl >}}/pages/study-materials).
+3.  Using the characters in Lessons 1–4, handwrite 3 sentences of no less than 20 characters each. Then transcribe your sentences into _Pinyin_ with tone marks. Write about different things for the 3 sentences. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "calligraphy sheet" %}}.
 
 
 {{< tdclose >}}
@@ -186,7 +188,7 @@ In the test, there will be the following types of questions:
 {{< tdopen >}}
 
 
-1.  Read \[LC \] Lesson 5. Practice writing the [big characters in Lesson 5]({{< baseurl >}}/pages/study-materials#Lesson_5) on your own, following the correct stroke orders.
+1.  Read \[LC \] Lesson 5. Practice writing the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "big characters in Lesson 5" "#Lesson_5" %}} on your own, following the correct stroke orders.
 2.  Learn the big characters in Lesson 4 by heart.
 
 
@@ -263,7 +265,7 @@ To prepare for the test, you need to:
 1.  know the Pinyin system.
 2.  be able to recognize and reproduce the big characters in Lessons 1–6 from all memory.
 
-4.  Read '[Converting between Full-form and Simplified Characters]({{< baseurl >}}/pages/study-materials).'
+4.  Read '{{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Converting between Full-form and Simplified Characters" %}}.'
 
 
 {{< tdclose >}}

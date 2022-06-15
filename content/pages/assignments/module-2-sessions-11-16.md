@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on assignments and in-class activities
+  for the second module of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,11 +15,11 @@ uid: 86518d6d-b38b-be0b-a165-4b9635d787e1
 Required Textbooks
 ------------------
 
-\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
+\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
 
 \[PC\] = The simiplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese - Simplified Character Version Vol. 1. (__Daxue Yuwen)._ Columbia University Press, 2004. ISBN: 9780231135672; or the traditional character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese Vol. 1._ (_Daxue Yuwen)_. Columbia University Press, 2002. ISBN: 9780231125550.
 
-Each assignment referenced in the table, if available, is provided in the [Study Materials]({{< baseurl >}}/pages/study-materials) section, except the audio files. Some files are not be provided here due to copyright restrictions.
+Each assignment referenced in the table, if available, is provided in the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Study Materials" %}} section, except the audio files. Some files are not be provided here due to copyright restrictions.
 
 Special instructions for accomplishing your writing assignments:  
 Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy grid.
@@ -47,7 +49,7 @@ IN CLASS
 
 *   Preview of \[PC\] Lesson 1:
     1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 10–14.
-    2.  Study the Vocabulary on pp. 2–4 (listen to the audio file). Learn the [Lesson 1 required characters]({{< baseurl >}}/pages/study-materials#Lessons_1-2) by heart (check Appendix III on pp. 249–79 for character stroke order). Make sure you know the other Lesson 1 characters by sight.
+    2.  Study the Vocabulary on pp. 2–4 (listen to the audio file). Learn the {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Lesson 1 required characters" "#Lessons_1-2" %}} by heart (check Appendix III on pp. 249–79 for character stroke order). Make sure you know the other Lesson 1 characters by sight.
     3.  Read the text on p. 6 (listen to the audio file). Write on your book the answers to the questions in the exercises on pp. 6–7.
     4.  Read Dialogues 1–2 on pp. 8–9 (listen to the audio file), and study "Expressions Used in Class." on p. 20 (listen to the audio file).
 *   Complete Lingt Speaking Assignment One before the class.
@@ -100,11 +102,11 @@ If you want to use a word you know how to say but not how to write, try Appendic
 
 *   Preview of \[PC\] Lesson 2:
     1.  Read "Grammatical Points" and "Sentence Patterns and Word Usage." on pp. 30–32.
-    2.  Study the Vocabulary on pp. 22–24 (listen to the audio file). Make sure you know the other [Lesson 2 characters]({{< baseurl >}}/pages/study-materials#Lessons_1-2) by sight.
+    2.  Study the Vocabulary on pp. 22–24 (listen to the audio file). Make sure you know the other {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Lesson 2 characters" "#Lessons_1-2" %}} by sight.
     3.  Read the text on p. 26 (listen to the audio file). Write on your book the answers to the questions in the exercises on pp. 26–27.
     4.  Read Dialogues 1–2 on pp. 28–29 (listen to the audio file), and study "Expressions on Money." on p. 38 (listen to the audio file).
 *   Complete Lingt Speaking Assignment Two before the class.
-*   Study [\[PC\] Lesson 1 Required Characters]({{< baseurl >}}/pages/study-materials).
+*   Study {{% resource_link "8b281a78-7af6-0ff6-b9ab-be5bf3c13f16" "\[PC\] Lesson 1 Required Characters" %}}.
 
 
 {{< tdclose >}}
@@ -163,7 +165,7 @@ If you want to use a word you know how to say but not how to write, try Appendic
         1.  Do you have a big family (parents, siblings, and grandparents) living together?
         2.  Do your relatives live close by or far away?
         3.  What is the significance of family to you?
-*   Study [Lesson 2 Required Characters]({{< baseurl >}}/pages/study-materials)
+*   Study {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Lesson 2 Required Characters" %}}
 
 
 {{< tdclose >}}
@@ -187,7 +189,7 @@ If you want to use a word you know how to say but not how to write, try Appendic
 
 
 *   Review \[PC\] Lessons 1–2. Make sure you can reproduce the required characters in \[PC\] Lessons 1–2 from memory and recognize the other characters by sight. Also, review the "Grammatical Points", "Sentences Patterns and Word Usage", and "Exercises."
-*   [Test format of Test 3]({{< baseurl >}}/pages/study-materials#Test_3) will be announced.
+*   {{% resource_link 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16 "Test format of Test 3" "#Test_3" %}} will be announced.
 
 
 {{< tdclose >}}
