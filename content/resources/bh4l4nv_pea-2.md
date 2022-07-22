@@ -4,6 +4,7 @@ description: ''
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/3e30ded691f7541194659bd675561edd_bH4L4Nv_PeA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
