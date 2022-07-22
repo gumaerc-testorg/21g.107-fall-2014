@@ -1,8 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-107-chinese-i-streamlined-fall-2014/156ec4ccaecb623a0fb45c59347f3ded_MIT21G_107F14_CourseIteration_zh-hans-cmn.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/156ec4ccaecb623a0fb45c59347f3ded_MIT21G_107F14_CourseIteration_zh-hans-cmn.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
 resourcetype: Document
 title: MIT21G_107F14_CourseIteration_zh-hans-cmn
 uid: 156ec4cc-aecb-623a-0fb4-5c59347f3ded
