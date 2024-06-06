@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding lecture notes for [LC] lesson
   4.
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/89dafc2a12c92dca9db616262362b2f9_MIT21G_107F14_Chars4.pdf
+file_size: 753717
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

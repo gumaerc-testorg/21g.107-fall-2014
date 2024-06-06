@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding lessons 1-2 required
   characters.
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/2c425dcd1981ae030e8207dbc0ca05cd_MIT21G_107F14_L1and2Req.pdf
+file_size: 140348
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
