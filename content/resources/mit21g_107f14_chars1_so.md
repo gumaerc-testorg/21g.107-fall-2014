@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding stroke order of characters in
   [LC] lesson 1.
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/58fd1bad7cdf0b9583436a191f333830_MIT21G_107F14_Chars1_SO.pdf
+file_size: 218789
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

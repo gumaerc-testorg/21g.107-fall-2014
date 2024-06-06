@@ -12,7 +12,7 @@ title: Instructions on Lingt Speaking Assignments
 uid: c5ab2893-05bb-e61f-fc95-193b2b1864c8
 ---
 
-Following the instructions provided below, you will use the following textbook of to complete the speaking assignments on {{% resource_link "4b5fa6e9-40af-4ac8-be8c-20289a587a55" "Lingt" %}}.
+Following the instructions provided below, you will use the following textbook of to complete the speaking assignments on [Lingt](https://www.lingt.com/).
 
 \[PC\] = The simiplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese - Simplified Character Version Vol. 1. (__Daxue Yuwen)._ Columbia University Press, 2004. ISBN: 9780231135672; or the traditional character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese Vol. 1._ (_Daxue Yuwen)_. Columbia University Press, 2002. ISBN: 9780231125550_._
 
