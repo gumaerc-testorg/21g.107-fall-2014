@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/0937e2523ce78fb462ed90708e6f1d25_instructor_thumb.jpg
+file_size: 60359
 file_type: image/jpeg
 image_metadata:
   caption: ''

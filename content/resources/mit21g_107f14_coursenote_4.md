@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding course notes on chines characters
   4.
 file: /courses/21g-107-chinese-i-streamlined-fall-2014/ff43c19ea9cb1d08a1c3ef5736b672bc_MIT21G_107F14_CourseNote_4.pdf
+file_size: 251488
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
