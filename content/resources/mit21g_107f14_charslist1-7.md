@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding character list for [LC] lessons
   1-7.
-file: /courses/21g-107-chinese-i-streamlined-fall-2014/7f9c7689274514e1149bb746929096a5_MIT21G_107F14_CharsList1-7.pdf
+file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/7f9c7689274514e1149bb746929096a5_MIT21G_107F14_CharsList1-7.pdf
 file_size: 324018
 file_type: application/pdf
 learning_resource_types: []
