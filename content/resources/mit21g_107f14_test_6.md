@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/cdb7406f2c6034454fc41666dcbee6c6_MIT21G_107F14_Test_6.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/cdb7406f2c6034454fc41666dcbee6c6_MIT21G_107F14_Test_6.pdf
 file_size: 220726
 file_type: application/pdf
 learning_resource_types: []

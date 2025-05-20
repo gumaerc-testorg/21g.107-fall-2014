@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture notes for [LC] lesson
   3.
-file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/308b6886ea2e6f12f91602dce5eecf4a_MIT21G_107F14_Chars3.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/308b6886ea2e6f12f91602dce5eecf4a_MIT21G_107F14_Chars3.pdf
 file_size: 592920
 file_type: application/pdf
 learning_resource_types: []
