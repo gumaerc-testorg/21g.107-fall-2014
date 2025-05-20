@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding end of term
   essay.
-file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/66eeb5d1dbccabf6ce2cf6df65075dc0_MIT21G_107F14_end_essay.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/66eeb5d1dbccabf6ce2cf6df65075dc0_MIT21G_107F14_end_essay.pdf
 file_size: 268439
 file_type: application/pdf
 learning_resource_types: []

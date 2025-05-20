@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding lessons 5-6 required
   characters.
-file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/f5c98728ce42de89808b716565691e11_MIT21G_107F14_L5and6Req.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/f5c98728ce42de89808b716565691e11_MIT21G_107F14_L5and6Req.pdf
 file_size: 154628
 file_type: application/pdf
 learning_resource_types: []

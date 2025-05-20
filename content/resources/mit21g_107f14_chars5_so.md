@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding stroke order of characters in
   [LC] lesson 5.
-file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/5130cdb094e2f57e95e05ace449bac43_MIT21G_107F14_Chars5_SO.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/5130cdb094e2f57e95e05ace449bac43_MIT21G_107F14_Chars5_SO.pdf
 file_size: 279336
 file_type: application/pdf
 learning_resource_types: []
