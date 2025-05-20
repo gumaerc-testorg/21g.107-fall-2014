@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/b76188ba9ff71c16b939c34e1ae52d5a_MIT21G_107F14_Philosophy_zh-hans-cmn.pdf
+file: /courses/21g-107-chinese-i-streamlined-fall-2014/b76188ba9ff71c16b939c34e1ae52d5a_MIT21G_107F14_Philosophy_zh-hans-cmn.pdf
 file_size: 155298
 file_type: application/pdf
 learning_resource_types: []
