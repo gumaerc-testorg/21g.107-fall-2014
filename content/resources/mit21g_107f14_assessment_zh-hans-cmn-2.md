@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-107-chinese-i-streamlined-fall-2014/4f1f99bd28c6505ba209d2b90cbe6c81_MIT21G_107F14_Assessment_zh-hans-cmn.vtt
+file: /ol-ocw-studio-app/courses/21g-107-chinese-i-streamlined-fall-2014/4f1f99bd28c6505ba209d2b90cbe6c81_MIT21G_107F14_Assessment_zh-hans-cmn.vtt
 file_size: 3612
 file_type: application/x-subrip
 learning_resource_types: []
