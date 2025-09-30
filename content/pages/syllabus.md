@@ -17,7 +17,7 @@ This course, along with [21G.108 / 158](/courses/21g-108-chinese-ii-streamlined-
 
 ## Characters and Pinyin
 
-Students are expected to be able to read texts written in either the full or simplified sets of Chinese characters, but are free to choose either one in writing. The website of "[Hanyu Pinyin for Mandarin Speakers](http://web.mit.edu/jinzhang/www/pinyin/)" has a guide to the Pinyin system. You may access it any time to refresh your memory.
+Students are expected to be able to read texts written in either the full or simplified sets of Chinese characters, but are free to choose either one in writing. The website of "{{% resource_link "a9d30b60-60d7-4944-9a81-51a05148b0fc" "Hanyu Pinyin for Mandarin Speakers" %}}" has a guide to the Pinyin system. You may access it any time to refresh your memory.
 
 ## Required Learning Materials
 
